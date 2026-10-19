@@ -1,5 +1,5 @@
 {
-  "server_host": "washing-light-motors-erp.trycloudflare.com",
+  "server_host": "children-atmosphere-transportation-participating.trycloudflare.com",
   "server_port": 443,
   "use_https": true,
   "server_endpoint": "/api/camera/process",
